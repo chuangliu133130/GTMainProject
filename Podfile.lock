@@ -1,0 +1,16 @@
+PODS:
+  - GTMainProject (0.1.0)
+
+DEPENDENCIES:
+  - GTMainProject (from `../`)
+
+EXTERNAL SOURCES:
+  GTMainProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GTMainProject: d351f997b581d2279db848fc4f95a8938ec18c5e
+
+PODFILE CHECKSUM: 8e0828771d915a2aac16d7135495b20149b2ff40
+
+COCOAPODS: 1.9.3

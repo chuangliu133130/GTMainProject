@@ -1,0 +1,6 @@
+framework module GTMainProject {
+  umbrella header "GTMainProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
